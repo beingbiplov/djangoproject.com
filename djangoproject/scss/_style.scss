@@ -3221,7 +3221,7 @@ ul.corporate-members li {
             margin-right: 10px;
         }
     }
-    .caption-text::-moz-selection{
+    .caption-text::selection{
         background: $green-light;
     }
 }
